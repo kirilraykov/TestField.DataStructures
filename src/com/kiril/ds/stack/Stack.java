@@ -1,4 +1,4 @@
-package com.kiril.stack;
+package com.kiril.ds.stack;
 
 
 public class Stack {

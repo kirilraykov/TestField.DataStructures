@@ -1,4 +1,4 @@
-package com.kiril.singlylinkedlist;
+package com.kiril.ds.singlylinkedlist;
 
 
 public class App {
